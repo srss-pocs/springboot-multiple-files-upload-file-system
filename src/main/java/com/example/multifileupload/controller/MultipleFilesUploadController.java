@@ -14,7 +14,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.example.multifileupload.service.MultipleFilesUploadService;
 import com.example.multifileupload.util.FileUploadResponse;
-import com.techgeeknext.util.FileUtil;
+import com.example.multifileupload.util.FileUtil;
 
 @RestController
 @RequestMapping("/api/multifile")

@@ -1,20 +1,8 @@
-### TechGeekNext > https://www.techgeeknext.com/
+Sprint Boot 3.1.4
 
-# Spring Boot upload multiple files | TechGeekNxt >> 
+A Simple Spring Boot Web Application that uploads file to specified path
 
-> [Spring Boot Multiple File upload example](https://www.techgeeknext.com/spring-boot/spring-boot-upload-multiple-files/)
-### Set port in application.properties
+APIs
 
-```
-PORT=8282
-```
 
-## Run Spring Boot application
-```
-mvn spring-boot:run
-```
-## Test Spring Boot upload multiple files
-POST - Upload multiple files > http://localhost:8282/upload?files with files selected.
-
-GET - List of uploaded files > http://localhost:8282/files
 
